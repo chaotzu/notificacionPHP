@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "472142100243",
+    "firebase_url": "https://srvmensajes.firebaseio.com",
+    "project_id": "srvmensajes",
+    "storage_bucket": "srvmensajes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472142100243:android:92d89038c4ac3105",
+        "android_client_info": {
+          "package_name": "netzd.org.notificacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472142100243-atu9nvlueulqjlbr2pmhmk5954bati4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIIXqVsv2Qg06wzTBg07FeB6Fpi8tPa8Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472142100243:android:e2605e41ba76113a",
+        "android_client_info": {
+          "package_name": "netzd.org.notificacionphp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472142100243-atu9nvlueulqjlbr2pmhmk5954bati4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIIXqVsv2Qg06wzTBg07FeB6Fpi8tPa8Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
